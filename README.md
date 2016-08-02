@@ -3,6 +3,7 @@ groups and teacher management tools
 
 Install and Run:
 - Install homebrew (mac osx)
+- install node (npm) -> brew install npm
 - cd newtrends-html5/
 - npm install 
 - npm start
